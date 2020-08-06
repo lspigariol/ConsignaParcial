@@ -1,7 +1,5 @@
-import wollok.game.*
 
-object juego {
+
+object parcial {
 	method inicio() {
-	game.start()
-	}
 }
