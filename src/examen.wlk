@@ -1,5 +1,5 @@
 
-
 object parcial {
 	method inicio() {
+	}
 }

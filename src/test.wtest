@@ -1,0 +1,7 @@
+import examen.*
+
+test "testX" {
+
+	assert.that(true)
+
+}
