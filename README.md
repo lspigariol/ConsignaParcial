@@ -1,3 +1,3 @@
-# Examen Parcial
+# Examen 
 
 **Estudiante:**
